@@ -31,7 +31,7 @@
       "title": "LIN"
     },
     {
-      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=line;strokeColor=#FF5722;strokeWidth=2;endArrow=blockThin;strokeStyle=dotted;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=line;strokeColor=#FF5722;strokeWidth=2;endArrow=blockThin;dashPattern=1 4;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
       "w": 100,
       "h": 60,
       "title": "FlexRay"
