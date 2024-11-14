@@ -19,7 +19,7 @@
     "title": "Sensor"
   },
   {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"CAN\" style=\"shape=hexagon;fillColor=#FF5722;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0\" y=\"0\" width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"CAN\" style=\"shape=hexagon;fillColor=#03A9F4;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0\" y=\"0\" width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
     "h": 60,
     "title": "CAN"
@@ -31,7 +31,7 @@
     "title": "LIN"
   },
  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=hexagon;fillColor=#FF5722;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0\" y=\"0\" width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=hexagon;fillColor=#4CAF50;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0\" y=\"0\" width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
     "w": 100,
     "h": 60,
     "title": "FlexRay"
