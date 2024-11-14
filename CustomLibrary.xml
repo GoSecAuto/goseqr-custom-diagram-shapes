@@ -24,13 +24,13 @@
       "h": 60,
       "title": "CAN"
     },
-    {
-      "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"LIN\" style=\"shape=hexagon;fillColor=#03A9F4;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry x=\"0\" y=\"0\" width=\"100\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-      "w": 100,
-      "h": 60,
-      "title": "LIN"
-    },
-    {
+   {
+  "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=&quot;0&quot;/&gt;&lt;mxCell id=&quot;1&quot; parent=&quot;0&quot;/&gt;&lt;mxCell id=&quot;hJyzB_gmnr5cf3u-M_e3-2&quot; value=&quot;&quot; style=&quot;endArrow=none;html=1;rounded=0;strokeColor=#000000;strokeWidth=2&quot; edge=&quot;1&quot; parent=&quot;1&quot;&gt;&lt;mxGeometry width=&quot;50&quot; height=&quot;50&quot; relative=&quot;1&quot; as=&quot;geometry&quot;&gt;&lt;mxPoint x=&quot;300&quot; y=&quot;200&quot; as=&quot;sourcePoint&quot; /&gt;&lt;mxPoint x=&quot;500&quot; y=&quot;50&quot; as=&quot;targetPoint&quot; /&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+  "w": 100,
+  "h": 60,
+  "title": "LIN"
+},
+{
       "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=link;strokeColor=#FF5722;strokeWidth=2;endArrow=blockThin\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
       "w": 100,
       "h": 60,
