@@ -18,23 +18,18 @@
     "h": 50,
     "title": "Sensor"
   },
- {
+{
   "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"CAN\" style=\"shape=line;strokeColor=#03A9F4;strokeWidth=2;dashed=1;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-  "w": 100,
-  "h": 60,
   "title": "CAN"
 },
-  {
+{
   "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"LIN\" style=\"shape=line;strokeColor=#FF5722;strokeWidth=2;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-  "w": 100,
-  "h": 60,
   "title": "LIN"
 },
 {
   "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=line;strokeColor=#FF5722;strokeWidth=2;endArrow=blockThin;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-  "w": 100,
-  "h": 60,
   "title": "FlexRay"
 }
+
 ]
 </mxlibrary>
