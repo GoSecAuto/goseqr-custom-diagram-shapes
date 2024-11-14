@@ -24,11 +24,11 @@
     "h": 60,
     "title": "CAN"
   },
-  {
-    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"shape=line;strokeColor=#8BC34A;strokeWidth=2;endArrow=block;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"40\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
-    "w": 100,
-    "h": 40,
-    "title": "FlexRay"
-  }
+ {
+  "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"FlexRay\" style=\"edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#8BC34A;strokeWidth=2;endArrow=block;rounded=0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+  "w": 100,
+  "h": 40,
+  "title": "FlexRay"
+}
 ]
 </mxlibrary>
